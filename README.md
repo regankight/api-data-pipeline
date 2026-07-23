@@ -1,6 +1,6 @@
 # API → Clean → KPI Snapshot
 
-Minimal ETL pipeline using a public API. Simulates a real-world data pipeline with validation-first design.
+Minimal ETL pipeline using a public API. Fetches, cleans, and logs KPI snapshots from real API data.
 
 ### 🧩 Flow Overview
 
